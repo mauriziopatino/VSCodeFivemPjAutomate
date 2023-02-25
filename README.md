@@ -1,2 +1,2 @@
 # fivempjautomation README
-Simple weird and ugly fivem extension
+Simple weird and ugly fivem project automation extension for VS CODE
